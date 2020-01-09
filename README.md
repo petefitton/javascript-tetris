@@ -1,7 +1,7 @@
 Javascript Tetris
 =================
 
-An HTML5 Tetris Game
+An HTML5 Tetris Game - not made by me, but practice for learning to use GITHUB
 
  * [play the game](http://codeincomplete.com/projects/tetris/)
  * read a [blog article](http://codeincomplete.com/posts/2011/10/10/javascript_tetris/)
